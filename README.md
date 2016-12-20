@@ -4,7 +4,7 @@
 
 ## PROFESSIONAL SKILLS
 
-* Specialist in `git` and `puppet` based application deployment and infrastructure configuration
+* Specialist in `git`, `docker`, and `puppet` based application deployment and infrastructure configuration
 * Strong `PHP` development skills including `Object-Oriented` and `MVC` experience - especially `Laravel`
 * `Cisco` switch and router configuration
 * Excellent `Linux` management skills (`Arch`, `CentOS / RHEL`, `Debian`, `Ubuntu`, `Gentoo`)
