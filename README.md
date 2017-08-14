@@ -42,11 +42,14 @@
 2014 &rarr; Present  
 Senior Engineer, __Eloquent Technologies Limited__
 
-* Infrastructure design and management
-* Hosted network solutions
-* MPLS
-* VOIP
-* Software development
+* Technology strategy
+* Hosted Docker platform with multiple integrations and automations
+* Infrastructure design, management and consultancy (VMware, XenServer, KVM/Ceph)
+* Hosted network solutions with MPLS/BGP
+* High performance redundant application stacks
+* Lead Software Developer
+* Technical mentor
+* CyberEssentials / ISO27001 accreditation
 
 2013 &rarr; 2014  
 Systems Analyst, __AgustaWestland Ltd__
