@@ -15,7 +15,7 @@
     * `exim4` mail server
     * `Windows Server` with `Active Directory`, `Exchange` and `SharePoint`
 * High-level &amp; in-depth understanding of technical concepts backed by practical knowledge in a range of subjects, including:
-    * Networking (including `firewalls` and `routing`, `NAT`, `OpenVPN`, `IPSEC`)
+    * Networking (including `firewalls` and `routing`, `NAT`, `OpenVPN`, `IPSEC`, `MPLS`, `BGP`)
     * Information Security, including:
         * Common attack vectors, such as the [OWASP Top 10][1]
         * Methods for prevention of common attacks
