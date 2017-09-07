@@ -121,6 +121,12 @@ For promoting employment and economic prosperity in the area
 __Awarded University of Bath Enterprise Bursary__  
 For developing enterprise skills and entrepreneurial experience
 
+## LICENCES
+
+* Full clean UK driving licence
+* Full unrestricted motorcycle licence
+* ACU Motorcycle Road Race licence
+
 ## REFERENCES
 
 Excellent academic and professional references available.
